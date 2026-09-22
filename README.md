@@ -1,4 +1,6 @@
 Coronary Artery Segmentation from CT Angiography using MONAI
+
+
 Deep learning pipeline for automated coronary artery segmentation from CT angiography (CCTA), built as a step toward detecting high-risk plaque features that routine clinical review sometimes misses.
 Status: In progress — accepted for oral presentation, [Conference Name], Oct 2026.
 Motivation
